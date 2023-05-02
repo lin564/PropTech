@@ -10,16 +10,16 @@ class LoadActor {
                 animationClipIndex: 0,
                 animationStartTime: 26751811,
                 dataLocation: "3VSLcwcr1Dbl27-xQGK3bRfgzIrtIxVuSjaMjktnZHS4PiIiJiVseXkwPzozJXgjJXg1JDknIzMieD85eSN5OD8ZJB0QYGNkPhgRAzgFZCY4Ih1gEgcEZB8nZHk1OTt4IzoiPyU_O3g6PzgyN3g0MyQ4NyQyeDs_NSQ5IDMkJTN5PWMeNARiLwwZOxkQZyARGwMsIg4xHGcHBgViJjszDDEDbjdiFGcQZCEfG3kyNyI3eRsVFGMkMglhYz8fZgc3ARgXOQAEDGYQJDglLx9gJx8BFRggOhduZDQGexs",
-                dataScale: [0.1, 0.1, 0.1],
+                dataScale: [0.01, 0.01, 0.01],
                 fileName: "/Green Guy.glb",
                 layers: ["pointer"],
                 modelType: "glb",
                 name: "/Green Guy.glb",
                 rotation: [0, 0, 0, 0],
-                scale: [1,1,1],
+                scale: [0.1,0.1,0.1],
                 shadow: true,
                 singleSided: true,
-                translation: [-1,-1,-7],
+                translation: [-1,-10,-7],
                 type: "3d"
              }
     	]
