@@ -22,7 +22,8 @@ export function init(Constants) {
     Constants.UserBehaviorDirectory = "behaviors/default";
     Constants.UserBehaviorModules = [
         "csmLights.js",
-        "urlLink.js"
+        "urlLink.js" , 
+        "loadActor.js"
     ];
 
     Constants.DefaultCards = [
@@ -38,6 +39,7 @@ export function init(Constants) {
                 placeholderSize: [400, 0.1, 400],
                 placeholderColor: 0x808080,
                 placeholderOffset: [0, 0, 0],
+                behaviorModules: ["LoadActor"]
             }
         },
         {
