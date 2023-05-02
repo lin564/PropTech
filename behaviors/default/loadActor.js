@@ -27,7 +27,7 @@ class LoadActor {
 	}
 }
 export default {
-    modules; [
+    modules: [
         {
             name; "LoadActor",
             actorBehaviors;[LoadActor]
