@@ -19,7 +19,7 @@ class LoadActor {
                 scale: [0.1,0.1,0.1],
                 shadow: true,
                 singleSided: true,
-                translation: [-1,-2,-7],
+                translation: [-1,-1,-7],
                 type: "3d"
              }
     	]
