@@ -16,7 +16,7 @@ class LoadActor {
                 modelType: "glb",
                 name: "/Green Guy.glb",
                 rotation: [0, 0, 0, 0],
-                scale: [0.1,0.1,0.1],
+                scale: [1,1,1],
                 shadow: true,
                 singleSided: true,
                 translation: [-1,-1,-7],
